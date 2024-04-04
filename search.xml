@@ -2173,9 +2173,9 @@
           
           <category> aoaoIT技术管理 </category>
           
-          <category> 操作系统虚拟化 </category>
-          
           <category> IT应用项目制度 </category>
+          
+          <category> 操作系统虚拟化 </category>
           
           <category> Linux系统 </category>
           
@@ -5008,33 +5008,6 @@
     
     
     <entry>
-      <title>aoaoditto-惊人的发现！这个工具可以让你管理剪贴板，节省你的时间并提高效率！</title>
-      <link href="/posts/94cf12888333/"/>
-      <url>/posts/94cf12888333/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p><span class="github-emoji"><span>🌺</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33a.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span>惊人的发现！这个工具可以让你管理剪贴板，节省你的时间并提高效率！</p></blockquote><h1 id="1-Ditto-Clipboard-Manager"><a href="#1-Ditto-Clipboard-Manager" class="headerlink" title="1 Ditto Clipboard Manager"></a>1 Ditto Clipboard Manager</h1><p>今天我要向大家介绍一个非常实用的剪贴板管理工具——Ditto Clipboard Manager！</p><p>Ditto Clipboard Manager是一个免费的Windows剪贴板扩展工具，它可以让你轻松管理复制和粘贴的内容。与其他剪贴板管理工具相比，Ditto Clipboard Manager的最大特点就是它可以保存你最近复制和粘贴的所有内容，让你随时查看和重新使用它们。</p><p>使用Ditto Clipboard Manager，你可以轻松访问你最常用的内容，例如邮件地址，电话号码，网址等等。当你需要重新使用这些内容时，只需要在Ditto Clipboard Manager中查找它们，然后复制并粘贴即可。这样不仅可以节省你的时间，还可以减少输入错误。</p><p>此外，Ditto Clipboard Manager还支持搜索功能，可以让你快速找到你需要的内容。同时，它还可以保存你的剪贴板历史记录，让你随时回溯查看。</p><p>总之，Ditto Clipboard Manager是一个非常实用的工具，它可以帮助你更高效地管理剪贴板内容，节省你的时间和减少输入错误。如果你经常需要复制和粘贴内容，那么Ditto Clipboard Manager一定会成为你的好帮手。</p><p><a href="https://ditto-cp.sourceforge.io/">https://ditto-cp.sourceforge.io/</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> aoao工具命令 </category>
-          
-          <category> 系统工具 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> ditto </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>性能测试工具整理</title>
       <link href="/posts/7ee06d85797f/"/>
       <url>/posts/7ee06d85797f/</url>
@@ -5058,6 +5031,33 @@
             <tag> 性能测试 </tag>
             
             <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>aoaoditto-惊人的发现！这个工具可以让你管理剪贴板，节省你的时间并提高效率！</title>
+      <link href="/posts/94cf12888333/"/>
+      <url>/posts/94cf12888333/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p><span class="github-emoji"><span>🌺</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f33a.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span>惊人的发现！这个工具可以让你管理剪贴板，节省你的时间并提高效率！</p></blockquote><h1 id="1-Ditto-Clipboard-Manager"><a href="#1-Ditto-Clipboard-Manager" class="headerlink" title="1 Ditto Clipboard Manager"></a>1 Ditto Clipboard Manager</h1><p>今天我要向大家介绍一个非常实用的剪贴板管理工具——Ditto Clipboard Manager！</p><p>Ditto Clipboard Manager是一个免费的Windows剪贴板扩展工具，它可以让你轻松管理复制和粘贴的内容。与其他剪贴板管理工具相比，Ditto Clipboard Manager的最大特点就是它可以保存你最近复制和粘贴的所有内容，让你随时查看和重新使用它们。</p><p>使用Ditto Clipboard Manager，你可以轻松访问你最常用的内容，例如邮件地址，电话号码，网址等等。当你需要重新使用这些内容时，只需要在Ditto Clipboard Manager中查找它们，然后复制并粘贴即可。这样不仅可以节省你的时间，还可以减少输入错误。</p><p>此外，Ditto Clipboard Manager还支持搜索功能，可以让你快速找到你需要的内容。同时，它还可以保存你的剪贴板历史记录，让你随时回溯查看。</p><p>总之，Ditto Clipboard Manager是一个非常实用的工具，它可以帮助你更高效地管理剪贴板内容，节省你的时间和减少输入错误。如果你经常需要复制和粘贴内容，那么Ditto Clipboard Manager一定会成为你的好帮手。</p><p><a href="https://ditto-cp.sourceforge.io/">https://ditto-cp.sourceforge.io/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> aoao工具命令 </category>
+          
+          <category> 系统工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ditto </tag>
             
         </tags>
       
